@@ -30,4 +30,5 @@ public class test1 {<br>
 ## 실행된 이미지<br>
 ![image](https://user-images.githubusercontent.com/126844692/224194022-6534c445-6861-42d9-aa2f-9bc933ff2641.png)<br>
 ## 설명<br>
-n은 사용자가 입력한 값이고, i는 이 중에서
+원하는 피라미드 모양 잡기위해선 공백 넣어야함(원하는 층-현재 층)
+별 찍기 공식(현재 층-1)x2-1
