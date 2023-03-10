@@ -1,4 +1,4 @@
-# piramid<br>
+# pyramid<br>
 ## for문<br>
 
 package 자바;
