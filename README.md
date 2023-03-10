@@ -1,32 +1,4 @@
-# triangle pyramid<br>
-## triangle
-### for문<br>
-
-package 자바;
-
-import java.util.Scanner;
-
-public class 과제 {
-        public static void main(String[] args) {<br>
-        	Scanner sc = new Scanner(System.in);<br>
-        System.out.print("몇 단 출력 :");
-	
-	int num;<br>
-	num = sc.nextInt();<br>
-	for(int i=0;i<num;i++){
-	    for(int j=0;j<=i;j++){
-		System.out.print("*");
-	    }
-	    System.out.println("");
-	}
-	}
-}
-
-## 실행된 이미지<br>
-![image](https://user-images.githubusercontent.com/126844692/224198086-af1ac322-0546-46ac-81cb-d5c300f41097.png)<br>
-## 설명<br>
-자바라는 코딩 프로그램을 사용해서 for문이라는 반복문으로 만든 작업<br>
-사용자가 키보드에 입력한 값 만큼 단 수가 만들어짐<br>
+#pyramid<br>
 ## pyramid<br>
 ### for문<br>
 
